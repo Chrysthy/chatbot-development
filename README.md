@@ -4,10 +4,6 @@
 This is a smart <strong>conversational assistant</strong> developed for <strong>Chácara Amaral</strong>, a countryside space for leisure and events.  
 </p>
 
-<p align="center">
-The project was created as part of my academic journey in Systems Analysis and Development, with the goal of applying real-world chatbot technologies using <a href="https://botpress.com/">Botpress Cloud.</a>
-</p>
-
 <br>
 
 <p align="center">  
@@ -58,4 +54,8 @@ The project was created as part of my academic journey in Systems Analysis and D
   
 <br>
 
+## 💻 Project
 
+- The project was created as part of my academic journey in Systems Analysis and Development, with the goal of applying real-world chatbot technologies using <a href="https://botpress.com/">Botpress Cloud.</a>
+
+<br>
