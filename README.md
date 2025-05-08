@@ -46,11 +46,10 @@ This is a smart <strong>conversational assistant</strong> developed for <strong>
 
 ## ✨ Features
 
-- ✨ Interface fully in **Portuguese**;
-- 🤖 **Multiple-choice options** to guide user interaction;
-- 📍 Answers about the property, facilities, location, and booking;
-- 🔄 Reset conversation anytime;
-- 🎨 Visually customized chat widget.
+- Interface fully in **Portuguese**;
+- **Multiple-choice options** to guide user interaction;
+- Answers about the property, facilities, location, and booking;
+- Visually customized chat widget.
   
 <br>
 
