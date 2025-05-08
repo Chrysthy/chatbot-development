@@ -59,3 +59,9 @@ This is a smart <strong>conversational assistant</strong> developed for <strong>
 - The project was created as part of my academic journey in Systems Analysis and Development, with the goal of applying real-world chatbot technologies using <a href="https://botpress.com/">Botpress Cloud.</a>
 
 <br>
+
+## 📜 License
+
+* This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
+
+<br>
