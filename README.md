@@ -21,3 +21,6 @@ The project was created as part of my academic journey in Systems Analysis and D
 </p>
 
 <br>
+
+🔗 **Acesse o chatbot online aqui:**  
+👉 [Teste o chatbot](https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/07/16/20250507161047-TIXN3XZ6.json)
