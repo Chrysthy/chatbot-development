@@ -40,11 +40,22 @@ The project was created as part of my academic journey in Systems Analysis and D
 <br>
 
 ## 🛠 Technologies
-- [Botpress Cloud](https://botpress.com/) – visual no-code platform for building chatbots
-- HTML5 + CSS3 – to create the integration page
-- JavaScript – to configure and embed the chatbot
-- Botpress Cloud Hosting – with public config URL
-- Visual customization (icons, colors, avatar, etc.)
+- [Botpress Cloud](https://botpress.com/) – visual no-code platform for building chatbots;
+- HTML5 + CSS3 – to create the integration page;
+- JavaScript – to configure and embed the chatbot;
+- Botpress Cloud Hosting – with public config URL;
+- Visual customization (icons, colors, avatar, etc.).
 
+<br>
+
+## ✨ Features
+
+- ✨ Interface fully in **Portuguese**;
+- 🤖 **Multiple-choice options** to guide user interaction;
+- 📍 Answers about the property, facilities, location, and booking;
+- 🔄 Reset conversation anytime;
+- 🎨 Visually customized chat widget.
+  
+<br>
 
 
