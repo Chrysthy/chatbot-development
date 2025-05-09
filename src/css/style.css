@@ -1,57 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 body {
-    margin: 0;
-    font-family: 'Segoe UI', sans-serif;
-    background-color: #fefcf7;
-    color: #333;
+    background-color: #000;
+    color: #fff;
+
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
 
-header {
-    background-image: url('https://source.unsplash.com/1600x400/?farm,nature');
-    background-size: cover;
+h1 {
+    font-size: 5rem;
+    line-height: 10rem;
+}
+
+
+p {
+    font-size: 2rem;
+    margin-bottom: 4.5rem;
+    line-height: 4rem;
+}
+
+.bg-img {
+    background-image: url("https://scontent.fplu16-1.fna.fbcdn.net/v/t45.5328-4/474712545_1431099181632070_396784913558420971_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=QYtSCu00x_wQ7kNvwGI3yIQ&_nc_oc=AdnviZrhzuahOc2Z1tszgXQZte3utrj5Q_whelJgG8zpghYMy6EB0YEw6NW85mNP4UfWTLoFKTVqEP5S2BEdrXWp&_nc_zt=23&_nc_ht=scontent.fplu16-1.fna&_nc_gid=y5nAXjlGz1UcuBGAgb0Dyg&oh=00_AfLma2L7IrRc6fznci04ils7bTRH5Sbuhg4ow0iQsVgPLA&oe=68243ED6");
+
     background-position: center;
-    padding: 4rem 2rem;
-    color: white;
-    text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
-    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    opacity: 0.6;
+
+    position: absolute;
+    inset: 0;
+    z-index: -1;
 }
-
-header h1 {
-    font-size: 3rem;
-    margin-bottom: 0.5rem;
-}
-
-header p {
-    font-size: 1.2rem;
-    margin: 0;
-}
-
-main {
-    padding: 2rem;
-    max-width: 900px;
-    margin: 0 auto;
-    text-align: center;
-}
-
-section {
-    margin: 2rem 0;
-}
-
-footer {
-    background-color: #f1f1f1;
-    text-align: center;
-    padding: 1rem;
-    font-size: 0.9rem;
-    color: #777;
-}
-
-  #webchat .bpWebchat {
-    position: unset;
-    width: 100%;
-    height: 100%;
-    max-height: 100%;
-    max-width: 100%;
-  }
-
-  #webchat .bpFab {
-    display: none;
-  }
