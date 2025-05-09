@@ -1,0 +1,7 @@
+Bloco: menu_opcoes
+
+Informações Gerais;
+Preços;
+Estrutura da Chácara;
+Fotos;
+Contato.
