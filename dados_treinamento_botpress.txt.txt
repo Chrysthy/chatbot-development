@@ -1,3 +1,10 @@
+Bloco: conversa_padrão
+Saudação;
+Apresentação;
+Nome;
+Guardar variável nome
+
+
 Bloco: menu_opcoes
 
 Informações Gerais;
