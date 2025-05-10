@@ -16,24 +16,30 @@ body {
 
     height: 100vh;
 
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Playwrite DK Loopet", cursive;
+
+    overflow: hidden;
 
 }
 
 h1 {
-    font-size: 5rem;
+    font-size: 4rem;
     line-height: 10rem;
 }
 
+h2 {
+    font-size: 3rem;
+    line-height: 5rem;
+}
 
 p {
-    font-size: 2rem;
+    font-size: 1.9rem;
     margin-bottom: 4.5rem;
     line-height: 4rem;
 }
 
 .bg-img {
-    background-image: url("https://scontent.fplu16-1.fna.fbcdn.net/v/t45.5328-4/474712545_1431099181632070_396784913558420971_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&ccb=1-7&_nc_sid=247b10&_nc_ohc=QYtSCu00x_wQ7kNvwGI3yIQ&_nc_oc=AdnviZrhzuahOc2Z1tszgXQZte3utrj5Q_whelJgG8zpghYMy6EB0YEw6NW85mNP4UfWTLoFKTVqEP5S2BEdrXWp&_nc_zt=23&_nc_ht=scontent.fplu16-1.fna&_nc_gid=y5nAXjlGz1UcuBGAgb0Dyg&oh=00_AfLma2L7IrRc6fznci04ils7bTRH5Sbuhg4ow0iQsVgPLA&oe=68243ED6");
+    background-image: url("../images/wood.jpg");
 
     background-position: center;
     background-size: cover;
@@ -44,4 +50,35 @@ p {
     position: absolute;
     inset: 0;
     z-index: -1;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    padding: 1rem;
+
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Responsivo */
+@media (max-width: 768px) {
+    header h1 {
+        font-size: 2.2rem;
+    }
+
+    main h2 {
+        font-size: 1.5rem;
+    }
+
+    header p,
+    main p {
+        font-size: 1rem;
+    }
+
+    .container {
+        padding: 1rem;
+    }
 }
