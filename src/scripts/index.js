@@ -14,6 +14,7 @@ window.botpress.init({
         "botConversationLanguage": "pt",
         // "showPoweredBy": false,
         "botName": "Assistente Chácara Amaral",
+        "composerPlaceholder": "Digite oi para começar!"
     },
     "clientId": "abaf3b01-c4e1-4d95-850e-1c12844a748d",
     "selector": "#webchat"
