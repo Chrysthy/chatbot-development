@@ -18,7 +18,7 @@ This is a smart <strong>conversational assistant</strong> developed for <strong>
 
 <br>
 
-🔗 **Acesse o chatbot online aqui:**  
+🔗 **Access the chatbot online here:**  
 👉 [Teste o chatbot](https://cdn.botpress.cloud/webchat/v2.4/shareable.html?configUrl=https://files.bpcontent.cloud/2025/05/07/16/20250507161047-TIXN3XZ6.json)
 
 <br>
