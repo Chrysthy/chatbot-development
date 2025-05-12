@@ -1,4 +1,4 @@
-<h1 align="center">Criação de Chatbot 💬</h1> 
+<h1 align="center">Chatbot Development 💬</h1> 
 
 <p align="center">
 This is a smart <strong>conversational assistant</strong> developed for <strong>Chácara Amaral</strong>, a countryside space for leisure and events.  
